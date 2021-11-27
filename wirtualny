@@ -1,0 +1,1 @@
+Na serwerze docker z zainstalowanym Apache2 utwórz użytkownika wirtualnego user_virt z hasłem novell, który może zarządzać treścia wirtualnych hostów utworzonych w poprzednim ćwiczeniu z usług WWW

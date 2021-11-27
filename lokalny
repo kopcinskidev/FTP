@@ -1,0 +1,1 @@
+Na serwerze R1 utwórz 2 użytkowników user1 i user2 z hasłem novell. Ich katalogi domowe mają być dodtępne poprzez usługę FTP. Użytkownicy nie mogą widzieć w usłudze FTP katalogów innych niż swoje ( opcja chroot_local_user).
